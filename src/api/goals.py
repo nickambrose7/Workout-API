@@ -1,4 +1,3 @@
-import datetime
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 from src import database as db
