@@ -18,7 +18,7 @@
 [![Project license](https://img.shields.io/github/license/Jsbolaris/workoutapiproject.svg?style=flat-square)](LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/Jsbolaris/workoutapiproject/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by Jsbolaris](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Jsbolaris-ff1414.svg?style=flat-square)](https://github.com/Jsbolaris)
+[![code with love by nickambrose7](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Jsbolaris-ff1414.svg?style=flat-square)](https://github.com/Jsbolaris)
 
 </div>
 
@@ -55,11 +55,15 @@
 
 
 ### Built With
+- FastAPI
+- SQLAlchemy
 - Faker
 - Database Hosted by Supabase
 - Deployed Using Vercel
 - Migration scripts generated using Alembic
 - ER Diagrams created with Lucid Chart
+- Concurrency Diagrams with draw.io
+
 
 ## Getting Started
 
@@ -142,13 +146,11 @@ run: pip install -r requirements.txt
 
 ### Installation
 
-> Download the source code from our github: https://github.com/CSC-365/WorkoutAPIProject
+> Download the source code from github: https://github.com/nickambrose7/Workout-API
 
 ## Usage
 
-> Use the vercel link listed on our github page and visit /docs to access the api functions.
-> There you can test the various functions our api offers.
-- **Users Functions**
+> **Users Functions**
 - Create a user based on personal information
 - Retrieve a user's information based on their id
 >
@@ -168,50 +170,28 @@ run: pip install -r requirements.txt
 - Retrieve a user's projections based on its id
 
 
-## Roadmap
-
-See the [open issues](https://github.com/Jsbolaris/workoutapiproject/issues) for a list of proposed features (and known issues).
-
-- [Top Feature Requests](https://github.com/Jsbolaris/workoutapiproject/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/Jsbolaris/workoutapiproject/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/Jsbolaris/workoutapiproject/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
-
-## Support
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub issues](https://github.com/Jsbolaris/workoutapiproject/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/Jsbolaris)
-
 ## Project assistance
 
 If you want to say **thank you** or/and support active development of WorkoutAPIProject:
 
-- Add a [GitHub Star](https://github.com/Jsbolaris/workoutapiproject) to the project.
+- Add a [GitHub Star](https://github.com/nickambrose7/Workout-API) to the project.
 - Tweet about the WorkoutAPIProject.
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make WorkoutAPIProject **better**!
 
-## Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-
-Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
 ## Authors & contributors
 
-The original setup of this repository is by [John Bolaris](https://github.com/Jsbolaris).
+The original setup of this repository is by [Nick Ambrose](https://github.com/Jsbolaris).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/Jsbolaris/workoutapiproject/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/nickambrose7/Workout-API/graphs/contributors).
 
 ## Security
 
 WorkoutAPIProject follows good practices of security, but 100% security cannot be assured.
 WorkoutAPIProject is provided **"as is"** without any **warranty**. Use at your own risk.
 
-_For more information and to report security issues, please refer to our [security documentation](docs/SECURITY.md)._
 
 ## License
 
@@ -221,4 +201,4 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
-> Thank you to Professor Lucas Pierce for all his guidance on this project
+> Thank you to Professor Lucas Pierce for all his guidance on this project!
