@@ -5,17 +5,17 @@
   <a href="#about"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/Jsbolaris/workoutapiproject/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/nickambrose7/Workout-API/issues/new">Report a Bug</a>
   ·
-  <a href="https://github.com/Jsbolaris/workoutapiproject/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  <a href="https://github.com/nickambrose7/Workout-API/issues/new">Request a Feature</a>
   .
-  <a href="https://github.com/Jsbolaris/workoutapiproject/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
+  <a href="https://github.com/nickambrose7/Workout-API/issues/new">Ask a Question</a>
 </div>
 
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/Jsbolaris/workoutapiproject.svg?style=flat-square)](LICENSE)
+[![Project license](https://github.com/nickambrose7/Workout-API/blob/main/LICENSE)](LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/Jsbolaris/workoutapiproject/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by Jsbolaris](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Jsbolaris-ff1414.svg?style=flat-square)](https://github.com/Jsbolaris)
@@ -47,7 +47,7 @@
 ## About
 
 > Our API aims to help people generate sound workout plans.
-> Users can enter personal information into our api, and a workout plan will be generated for them based on that information.
+> Users can enter personal information into our API, and a workout plan will be generated for them based on that information.
 > It also allows users to log their workouts.
 > Users have the option to generate a projection for their progress based on their logged workouts.
 

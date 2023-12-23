@@ -19,7 +19,6 @@ new_workouts = []  # list of workouts, index will relate to the user
 new_goals = []  # list of goals, index will relate to the user
 new_logs = []  # list of logs, index will relate to the user
 new_projections = []  # list of projections, index will relate to the user
-
 inserted_users = [] # list of inserted users
 goal_weights = [] # list of goal weights, index will relate to the user
 
