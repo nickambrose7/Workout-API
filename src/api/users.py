@@ -9,7 +9,7 @@ import hashlib
 import os
 
 
-Base = declarative_base()
+Base = declarative_base() # to map the User class to the users table
 
 router = APIRouter()
 
@@ -30,7 +30,7 @@ class UserJson(BaseModel):
 
 
 class User(Base):
-    __tablename__ = 'users'
+    __tablename__ = 'users' # what our table will be actually called in our database
 
     id = Column(Integer, primary_key=True)
     name = Column(Text, nullable=False)  # set name to be not null
